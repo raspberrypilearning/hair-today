@@ -1,22 +1,22 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Give people funny celebrity hairstyles with JavaScript
+
+This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH49nqPFo0&feature=youtu.be){:target="_blank"} by winning Pioneers team PiCymru for the **Make us laugh** theme.
 
 ### What you will make
 
-Add something here to showcase here, for example:
+Use the sliders to move the hair and position it correctly on the person:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+[trinket embed]
 
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
++ [Combine 2D and 3D assets in the assembly of a project](https://curriculum.raspberrypi.org/design/builder/){:target="_blank"}
+
++ [Apply basic programming constructs to solve a problem](https://curriculum.raspberrypi.org/programming/builder/){:target="_blank"}
 
 ### Additional information for educators
 
