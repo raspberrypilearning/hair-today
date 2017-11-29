@@ -26,8 +26,6 @@ I am using a photo of myself so that I know I have permission to use it, and I a
 
 ![Image code](images/image-code.png)
 
-Where you see the code `src=""` you need to add the name of the picture you want to display in between the quotes.
-
 + Here is a good place to add the image license. You can add a comment in your code between `<!--` and `-->` to place the license text for your image:
 
 ```javascript
@@ -35,6 +33,8 @@ Where you see the code `src=""` you need to add the name of the picture you want
     <img src="" id="hair-image">
 </div>
 ```
+
+Where you see the code `src=""` you need to add the name of the picture you want to display in between the quotes.
 
 + Add the file name of your face image between the quotes of the first image tag
 
