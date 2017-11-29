@@ -34,6 +34,6 @@ Where you see the code `src=""` you need to add the name of the picture you want
 
 + In exactly the same way, add the file name of the hair image inside the second image tag
 
-You should see both images appear in the area to the right of the code area, but they might not be positioned very well.
+You should see both images appear in the area to the right of the code area, but the hair might be floating around somewhere!
 
 ![See both images](images/both-images.png)
