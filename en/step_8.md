@@ -38,3 +38,5 @@ Take care to put this new code **after** the closing braces of your existing cod
 + Use the sliders to position and resize the hair so that it looks like it belongs to the person in the picture.
 
 ![Silly hair](images/silly-hair.png)
+
+To save your picture, you can press the <kbd>Print screen</kbd> button on your keyboard (Windows) or press <kbd>Command + Shift + 4</kbd> on Mac, and then paste the image into your favourite image editor to crop and save.
