@@ -28,6 +28,14 @@ I am using a photo of myself so that I know I have permission to use it, and I a
 
 Where you see the code `src=""` you need to add the name of the picture you want to display in between the quotes.
 
++ Here is a good place to add the image license. You can add a comment in your code between `<!--` and `-->` to place the license text for your image:
+
+```javascript
+<div id="hair"> <!-- Hair image by Tim Lucas CC BY 3.0, via Wikimedia Commons -->
+    <img src="" id="hair-image">
+</div>
+```
+
 + Add the file name of your face image between the quotes of the first image tag
 
 ![Add the face image](images/original-image.png)
