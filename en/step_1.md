@@ -8,7 +8,7 @@ This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH
 
 Use the sliders to move the hair and position it correctly on the person:
 
-[trinket embed]
+<iframe src="https://trinket.io/embed/html/507e9028be?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ### What you will learn
 
