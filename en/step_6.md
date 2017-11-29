@@ -1,6 +1,6 @@
 ## Add a slider
 
-Let's add a slider so that the person using your app can change the position of the hair to make it fit on the person's head properly.
+Let's add a slider so that the person using your app can change the width of the hair to make it fit on the person's head properly.
 
 + Click on line 18 which is inside the div labelled `sliders`
 
@@ -29,15 +29,15 @@ Notice that the ID of the slider you just created was `hairwidth` and this is ho
 
 + Underneath this, but still within the `<script>` tags, add some code to change the width of the hair whenever the slider's value is changed:
 
-```Javascript
-// When I change the width slider...
+```javascript
+// When I move the width slider...
 width_slider.oninput = function() {
   // Change the width of the hair
   document.getElementById("hair-image").style.width = this.value + "px";
 }
 ```
 
-This code says _"when there is input to the `width_slider`, select the `hair-image` and set its `style.width` to the value of the slider (`this.value+"px"`)"_.
+This code says _"when the `width_slider` is moved, select the `hair-image` and set its `style.width` to the value of the slider (`this.value+"px"`)"_.
 
 + Move the slider and you should see the hair image get bigger or smaller as you drag it.
 
