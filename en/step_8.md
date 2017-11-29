@@ -33,4 +33,8 @@ Take care to put this new code **after** the closing braces of your existing cod
 
 + Move the slider and you should see the hair image move closer or further from the top of the page.
 
-+ Add a `left` slider in exactly the same way - repeat the same steps but replace `top` with `left` to allow your hair to be positioned at variable distances from the left of the page.
++ Add a `left` slider in exactly the same way - repeat the same steps but replace `top` with `left` each time it occurs to allow your hair to be positioned at variable distances from the left of the page.
+
++ Use the sliders to position and resize the hair so that it looks like it belongs to the person in the picture.
+
+![Silly hair](images/silly-hair.png)
