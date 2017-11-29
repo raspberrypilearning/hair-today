@@ -18,3 +18,13 @@ _By Tim Lucas [CC BY 3.0](http://creativecommons.org/licenses/by/3.0){:target="_
 + Using the **lasso** tool, draw really roughly around the person's hair. It doesn't matter at this stage if you also get some skin or some of the background, we will remove that in a minute.
 
 ![Lasso](images/lasso.jpg)
+
++ Press <kbd>Ctrl + C</kbd> to copy the hair
+
++ Click **File** > **New image** and press **OK** on the box that pops up.
+
+![New image](images/new-image.jpg)
+
++ Press <kbd>Ctrl + V</kbd> to paste the hair into the new image
+
+![Just the hair](images/just-hair.jpg)
