@@ -15,4 +15,4 @@ Permission to use an image could mean two different things.
 
 If you [accidentally discover an image you find upsetting](https://www.thinkuknow.co.uk/11_13/Need-advice/Things-you-see-online/){:target="_blank"}, close your browser immediately and tell an adult.
 
-+ A good place to look for pictures is [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} which has lots of images available under a Creative Commons license.  
++ A good place to look online for pictures is [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page){:target="_blank"} which has lots of images available under a Creative Commons license.  
