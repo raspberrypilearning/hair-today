@@ -6,9 +6,9 @@ The process is almost the same as for the width and height of the hair, with one
 
 ![Div or image](images/div-or-image.png)
 
-To move the hair around, you will need to modify the `<div>` with the ID `hair` instead.
+To move the hair around, you will need to modify the `<div>` with the ID `hair` instead. A `<div>` is an invisible box which can be moved around and positioned on the page.
 
-+ Add a top slider to your page - this will control how far from the top of the page the hair image is located.
++ Add code for a top slider next to the code for the other sliders - this will control how far from the top of the page the hair image is located.
 
 ```javascript
 Top: <input type="range" min="1" max="300" value="50" id="hairtop">
@@ -19,13 +19,17 @@ Top: <input type="range" min="1" max="300" value="50" id="hairtop">
 var top_slider = document.getElementById("hairtop");
 ```
 
-+ Underneath this, but still within the `<script>` tags, add some code to change the distance from the top whenever the top slider's value is changed:
++ Underneath this, but still within the `<script>` tags, add some code to change the distance from the top whenever the top slider's value is changed. This time we will select the `hair` element to move instead of the `hair-pic`.
 
 ```javascript
 top_slider.oninput = function() {
-  document.getElementById("hair-image").style.top = this.value + "px";
+  document.getElementById("hair").style.top = this.value + "px";
 }
 ```
+
+Take care to put this new code **after** the closing braces of your existing code, rather than inside them.
+
+![Put the code after the bracket](images/after-bracket.png)
 
 + Move the slider and you should see the hair image move closer or further from the top of the page.
 
