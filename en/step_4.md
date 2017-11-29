@@ -59,7 +59,7 @@ Let's tidy up the messy bits of background around the hair.
 
 ![Extra bits](images/extra-bits.png)
 
-+ Select the eraser tool and carefully remove any leftover areas. You can change the size and shape of your eraser by clicking next to **Brush** to make it easier to remove the small bits.
++ Select the eraser tool and carefully remove any leftover areas. You can change the size and shape of your eraser by clicking on the **Brush** to make it easier to remove the small bits.
 
 ![Eraser](images/eraser.png)
 
