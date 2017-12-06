@@ -1,12 +1,12 @@
 ## Introduction
 
-Give people funny celebrity hairstyles with JavaScript
+Give people funny celebrity hairstyles with JavaScript.
 
-This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH49nqPFo0&feature=youtu.be){:target="_blank"} by winning Pioneers team PiCymru for the **Make us laugh** theme.
+This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH49nqPFo0&feature=youtu.be){:target="_blank"} by winning Pioneers team PiCymru for the **Make us laugh** challenge.
 
 ### What you will make
 
-Use the sliders to move the hair and position it correctly on the person:
+Use the sliders to move shape the hair in order to position it correctly on the person's head.
 
 <iframe src="https://trinket.io/embed/html/507e9028be?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
