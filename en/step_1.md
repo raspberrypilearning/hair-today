@@ -1,6 +1,6 @@
 ## Introduction
 
-Give people funny celebrity hairstyles with JavaScript!
+Write an app to give people funny celebrity hairstyles with JavaScript!
 
 This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH49nqPFo0&feature=youtu.be){:target="_blank"} by winning Pioneers team PiCymru for the **Make us laugh** challenge.
 
