@@ -18,7 +18,7 @@ Wait for the images to upload, then make sure that both are selected in green so
 
 ![Selected in green](images/green-images.png)
 
-Make a note of the file names of the images — in this example, we have `face.jpg` and `quiff.png`
+Make a note of the file names of the images — in this example, we have `face.jpg` and `quiff.png`.
 
 I am using a photo of myself, so I know that I have permission to use it and that I am happy for it to be seen in public on the internet.
 
