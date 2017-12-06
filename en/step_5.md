@@ -36,11 +36,11 @@ I am using a photo of myself, so I know that I have permission to use it and tha
 
 Where you see `src=""` in the code, you need to add the name of the picture you want to display between the quotation marks.
 
-+ Add the file name of your face image between the quotation marks of the first image tag.
++ Add the file name of your face image between the quotation marks of the **first** image tag.
 
 ![Add the face image](images/original-image.png)
 
-+ In exactly the same way, add the file name of the hair image inside the second image tag.
++ In exactly the same way, add the file name of the hair image inside the **second** image tag.
 
 You should see both images appear in the area to the right of the code area. However, the hair might be floating around somewhere!
 
