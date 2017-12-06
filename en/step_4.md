@@ -8,8 +8,9 @@ This image has a [CC-BY-3.0 license](https://creativecommons.org/licenses/by/3.0
 
 _By Tim Lucas [CC BY 3.0](http://creativecommons.org/licenses/by/3.0){:target="_blank"}, via Wikimedia Commons_
 
++ Choose your two images - one containing a hairstyle and the other being the image you would like to put the hairstyle onto. Save the images into a folder on your computer.
 
-+ Open up [Pixlr](https://pixlr.com/editor/) which is a free online image editor. If you have access to another image editing tool (e.g. Photoshop) that you prefer, you can use that instead.
++ Open up [Pixlr](https://pixlr.com/editor/){:target="_blank"} which is a free online image editor. If you have access to another image editing tool (e.g. Photoshop) that you prefer, you can use that instead.
 
 + Select "Open image from computer" from the menu and open up the image containing the hair style you wish to use.
 
@@ -51,13 +52,15 @@ Let's tidy up the messy bits of background around the hair.
 
 ![Wiggly line](images/wiggly.png)
 
-+ To make your magic wand select more of the green background, you can change the **tolerance**. A low tolerance means that the wand will only select areas of colour that are very similar to the colour you clicked on. The higher the tolerance, the less strict the wand is.
++ To make your magic wand select more of the green background, you can change the **tolerance**. A low tolerance means that the wand will only select areas of colour that are very similar to the colour you clicked on. The higher the tolerance, the less strict the wand is. Tolerance ranges from 0 to 255.
 
 ![Tolerance](images/tolerance.png)
 
 + Remove as much of the background and the skin as you can, taking care not to delete any of the hair. You will be left with some annoying extra bits hanging around.
 
 ![Extra bits](images/extra-bits.png)
+
++ Press <kbd>Ctrl + D</kbd> to deselect any areas that might still be selected by the magic wand. You want nothing to be selected, so you should see no wiggly lines anywhere on the image.
 
 + Select the eraser tool and carefully remove any leftover areas. You can change the size and shape of your eraser by clicking on the **Brush** to make it easier to remove the small bits.
 

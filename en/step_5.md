@@ -1,6 +1,6 @@
 ## Add the images
 
-+ Open up the [starter trinket](https://trinket.io/html/5aeb013eaa){:target="_blank"} DO SHORT LINK here
++ Open up the starter trinket [rpf.io/combover](http://rpf.io/combover){:target="_blank"} 
 
 You will see some HTML code inside `index.html` and some CSS code inside `style.css`.
 
