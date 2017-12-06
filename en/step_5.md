@@ -1,6 +1,6 @@
 ## Add the images
 
-+ Open up the starter trinket [rpf.io/combover](http://rpf.io/combover){:target="_blank"} 
++ Open up the starter trinket [rpf.io/combover](http://rpf.io/combover){:target="_blank"}
 
 You will see some HTML code inside `index.html` and some CSS code inside `style.css`.
 
@@ -10,7 +10,7 @@ You will see some HTML code inside `index.html` and some CSS code inside `style.
 
 ![Image icon](images/image-icon.png)
 
-+ Click **Add image**, then **Upload**, then **Click to select files**
++ Click **Add image**, then **Upload**, then **Click to select files**. You will need a free Trinket account to be able to upload images.
 
 + Select the hair image you just made and the face you would like to add it to.
 
