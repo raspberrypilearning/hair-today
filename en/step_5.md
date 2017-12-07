@@ -2,17 +2,17 @@
 
 + Open up the starter trinket [rpf.io/combover](http://rpf.io/combover){:target="_blank"}.
 
-You will see some HTML code inside `index.html` and some CSS code inside `style.css`.
+You will see some HTML code in the `index.html` tab and some CSS code in the `style.css` tab.
 
 ![Starter code](images/starter-code.png)
 
-+ Click on the image icon near the top right-hand corner of the code area.
++ Click on the image icon in the top right-hand corner of the code area.
 
 ![Image icon](images/image-icon.png)
 
 + Click **Add image**, then **Upload**, then **Click to select files**. You will need a free Trinket account to be able to upload images.
 
-+ Select the hair image you just made and the image of a face you've chosen.
++ Select the hair image you just made and the image of a face you picked out earlier.
 
 Wait for the images to upload, then make sure that both are selected in green so that you can use them in this trinket.
 
@@ -26,7 +26,7 @@ I am using a photo of myself, so I know that I have permission to use it and tha
 
 ![Image code](images/image-code.png)
 
-+ Here is a good place to add the image license. You can add a comment in your code between `<!--` and `-->` to place the license text for your image:
++ Here is a good place to add the image license. You can add a **comment** in your HTML code between `<!--` and `-->` to place the license text for your image:
 
 ```javascript
 <div id="hair"> <!-- Hair image by Tim Lucas CC BY 3.0, via Wikimedia Commons -->
