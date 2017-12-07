@@ -12,11 +12,11 @@ _By Tim Lucas [CC BY 3.0](http://creativecommons.org/licenses/by/3.0){:target="_
 
 + Open up [Pixlr](https://pixlr.com/editor/){:target="_blank"}, which is a free online image editor. If you have access to another image editing tool that you prefer, you can use that instead.
 
-+ Select **Open image from computer** from the menu, and open up the image containing the hair style you wish to use.
++ Select **Open image from computer** from the menu, and select the image containing the hair style you wish to use.
 
 ![Open the image](images/open-image.png)
 
-+ Using the **lasso** tool, draw really roughly around the person's hair. It doesn't matter at this stage if you also get some skin or some of the background — we will remove that in a minute.
++ Using the **lasso** tool, draw a rough outline around the person's hair. It doesn't matter at this stage if you also get some skin or some of the background — we will remove that in a minute.
 
 ![Lasso](images/lasso.png)
 
@@ -30,17 +30,17 @@ _By Tim Lucas [CC BY 3.0](http://creativecommons.org/licenses/by/3.0){:target="_
 
 ![Just the hair](images/just-hair.png)
 
-+ Now you need to remove the background. Double-click on the padlock next to the **Background** layer in the layers palette on the right. This will unlock that layer.
++ Now you need to remove the background. In the layers palette on the right, double-click on the padlock next to the **Background** layer. This will unlock that layer.
 
 ![Padlock](images/padlock.png)
 
-+ Press the key on your keyboard marked <kbd>Delete</kbd> (NOT the backspace key) or go to **Edit** > **Clear** on the menu. The background of the image will change to a checkerboard pattern, which means that the area is transparent.
++ To remove this layer, press the key on your keyboard marked <kbd>Delete</kbd> (NOT the backspace key), or go to **Edit** > **Clear** on the menu. The background of the image will change to a checkerboard pattern, which means that the area is transparent.
 
 ![Transparent background](images/transparent.png)
 
 Let's tidy up the messy bits of background around the hair.
 
-+ Switch back to layer 1 by clicking on it in the layers palette.
++ Switch back to Layer 1 by clicking on it in the layers palette.
 
 ![Layer 1](images/layer1.png)
 
@@ -52,21 +52,21 @@ Let's tidy up the messy bits of background around the hair.
 
 ![Wiggly line](images/wiggly.png)
 
-+ To make your magic wand select more of the green background, you can change the **tolerance**. A low tolerance means that the wand will only select areas of colour that are very similar to the colour you clicked on. The higher the tolerance, the less strict the wand's selection. Tolerance ranges from 0 to 255.
++ To make your magic wand select more of the green background, you can change its **tolerance** setting. A low tolerance means that the wand will only select areas of colour that are very similar to the colour you clicked on. The higher the tolerance, the less strict the wand's selection. Tolerance ranges from 0 to 255.
 
 ![Tolerance](images/tolerance.png)
 
-+ Remove as much of the background and the skin as you can, taking care not to delete any of the hair. You will be left with some annoying extra bits hanging around.
++ Remove as much of the background and the skin as you can, taking care not to delete any of the hair. You will be left with a few annoying bits hanging around.
 
 ![Extra bits](images/extra-bits.png)
 
 + Press <kbd>Ctrl + D</kbd> to deselect any areas that might still be selected by the magic wand. You want nothing to be selected, so check that you see no wiggly lines anywhere on the image.
 
-+ Select the eraser tool and carefully remove any leftover areas. To make it easier to remove the small bits, you can change the size and shape of your eraser by clicking on the **Brush**.
++ Select the eraser tool and carefully remove any leftover areas around the hair that the magic wand missed. To make it easier to remove the small bits, you can change the size and shape of your eraser by clicking on the **Brush**.
 
 ![Eraser](images/eraser.png)
 
-+ When you are satisfied, click **File** > **Save**. In the box that appears, give your file a name. Make sure you select **PNG** as the file type so that your image will be saved with a transparent background.
++ Once you are satisfied, click **File** > **Save**. In the box that appears, give your file a name. Make sure you select **PNG** as the file type so that your image will be saved with a transparent background.
 
 ![PNG file](images/png-file.png)
 
