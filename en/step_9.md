@@ -2,19 +2,19 @@
 
 + Can you add a slider which allows you to rotate the hair `<div>`?
 
-Follow the same procedure as you did to add the top and left sliders, but you will need a different command to tell the hair to rotate:
+You can follow the same procedure you used to add the top and left sliders, but you will need a different command to tell the hair to rotate:
 
 ```javascript
 document.getElementById("hair").style.transform = "rotate(" + this.value + "deg" +")";
 ```
 
-Don't forget that the sliders currently have a minimum value of 1 and a maximum value of 300. How will you need to change this for your rotation slider to make the hair able to rotate in a full circle?
+Don't forget that the sliders currently have a minimum value of 1 and a maximum value of 300. How will you need to change this for your rotation slider so that you can rotate the hair in a full circle?
 
 ```javascript
 Left: <input type="range" min="1" max="300" value="50" id="hairleft">
 ```
 
-Now you can give your pictures funny beards too!
+Now you can give the people in your pictures funny beards too!
 
 ![Silly beard](images/silly-beard.png)
 

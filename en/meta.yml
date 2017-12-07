@@ -1,11 +1,11 @@
 title: Hair today, gone tomorrow
 hero_image: images/banner.png
-description: Give people funny celebrity hairstyles with JavaScript
+description: Give people funny hairstyles by creating a web app with JavaScript
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
 ingredient: false
-copyedit: false
+copyedit: true
 curriculum: creator, design-2, programming-2, phys-comp-0, manufacture-0, community-1
 interests: "jokes/pranks, photography"
 technologies: "html/css"
@@ -17,6 +17,6 @@ steps:
   - title: Edit the hair
   - title: Add the images
   - title: Add a slider
-  - title: "Challenge: Change the height"
+  - title: "Challenge: change the height"
   - title: Change the position
   - title: "Challenge: rotate the hair"

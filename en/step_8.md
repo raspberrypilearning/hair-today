@@ -1,14 +1,14 @@
 ## Change the position
 
-Now that you can change the width and height of the hair, let's also make it possible to change the position so you can perch it perfectly on top of your head!
+Now that you can change the width and height of the hair image, let's also make it possible to change its position so you can perch it perfectly on top of the head you picked out!
 
-The process is almost the same as for the width and height of the hair, with one small difference. When you changed the width and height of the hair, you were modifying the `<img>` with the ID `hair-image`:
+The process is almost the same as for the width and height of the hair, with only one small difference. When you changed the width and height of the hair, you were modifying the `<img>` with the ID `hair-image`:
 
 ![Div or image](images/div-or-image.png)
 
-To move the hair around, you will need to modify the `<div>` with the ID `hair` instead. A `<div>` is an invisible box which can be moved around and positioned on the page.
+To move the hair around, you will need to modify the `<div>` with the ID `hair` instead.
 
-+ Add code for a top slider next to the code for the other sliders - this will control how far from the top of the page the hair image is located.
++ Add code for a top slider below to the code for the other sliders — this will control how far from the top of the page the hair image is located.
 
 ```javascript
 Top: <input type="range" min="1" max="300" value="50" id="hairtop">
@@ -19,7 +19,7 @@ Top: <input type="range" min="1" max="300" value="50" id="hairtop">
 var top_slider = document.getElementById("hairtop");
 ```
 
-+ Underneath this, but still within the `<script>` tags, add some code to change the distance from the top whenever the top slider's value is changed. This time we will select the `hair` element to move instead of the `hair-pic`.
++ Move your cursor so that it is below this line, but still within the `<script>` tags. Add some code to change the hair's distance from the top of the page whenever the top slider's value is changed. This time we will select the `hair` element instead of the `hair-pic`.
 
 ```javascript
 top_slider.oninput = function() {
@@ -27,16 +27,16 @@ top_slider.oninput = function() {
 }
 ```
 
-Take care to put this new code **after** the closing braces of your existing code, rather than inside them.
+Take care to add this new code **after** the closing brackets of your existing code, rather than inside them.
 
 ![Put the code after the bracket](images/after-bracket.png)
 
-+ Move the slider and you should see the hair image move closer or further from the top of the page.
++ Move the slider. You should see the hair image move toward or away from the top of the page.
 
-+ Add a `left` slider in exactly the same way - repeat the same steps but replace `top` with `left` each time it occurs to allow your hair to be positioned at variable distances from the left of the page.
++ Add a `left` slider in exactly the same way: repeat the same steps but replace `top` with `left` everywhere you put it to allow your hair to be positioned at variable distances from the left of the page.
 
 + Use the sliders to position and resize the hair so that it looks like it belongs to the person in the picture.
 
 ![Silly hair](images/silly-hair.png)
 
-To save your picture, you can press the <kbd>Print screen</kbd> button on your keyboard (Windows) or press <kbd>Command + Shift + 4</kbd> on Mac, and then paste the image into your favourite image editor to crop and save.
+To save your picture, you can press the <kbd>Print screen</kbd> button (on a Windows computer) or <kbd>Command + Shift + 4</kbd> (on Mac). Then paste the image into your favourite image editor to crop and save it.

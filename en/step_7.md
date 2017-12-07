@@ -1,12 +1,12 @@
-## Challenge: Change the height
+## Challenge: change the height
 
-Can you add another slider to allow people to change the height of the hair image? You will need to follow the following steps:
+Can you add another slider to allow people to change the height of the hair image? You will need to follow these steps:
 
 + Create another slider inside `<div id="sliders">` by copying and pasting the code for the width slider. Don't forget to change the label and the `id` of the new slider.
 
 + Between the `<script>` tags, add a variable that refers to the `id` of the slider you just created.
 
-+ Add some more JavaScript code to say _when the height slider is changed, change the height of the hair image_. You will need to change the code in the two places marked with `???` below. Look at the code you wrote before to help you.
++ Add some more JavaScript code to say "When the height slider is moved, change the height of the hair image". You will need to change the code in the two places marked with `???` below. Look at the code you wrote earlier to help you.
 
 ```javascript
 ???.oninput = function() {
@@ -14,4 +14,4 @@ Can you add another slider to allow people to change the height of the hair imag
 }
 ```
 
-Test whether your code works - can you move the slider to change the height of the hair image?
++ Test whether your code works. Can you move the slider to change the height of the hair image?
