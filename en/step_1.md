@@ -6,7 +6,7 @@ This resource is based on an [original idea](https://www.youtube.com/watch?v=ghH
 
 ### What you will make
 
-Use the sliders to move shape the hair in order to position it correctly on the person's head.
+Use the sliders to move and shape the hair in order to position it on the person's head.
 
 <iframe src="https://trinket.io/embed/html/507e9028be?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -19,8 +19,6 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + [Apply basic programming constructs to solve a problem](https://curriculum.raspberrypi.org/programming/builder/){:target="_blank"}
 
 + [Engage and share with the digital making community](https://curriculum.raspberrypi.org/community-and-sharing/creator/){:target="_blank"}
-
-
 
 ### Additional information for educators
 
