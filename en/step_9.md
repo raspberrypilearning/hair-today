@@ -8,7 +8,7 @@ You can follow the same procedure you used to add the top and left sliders, but 
 document.getElementById("hair").style.transform = "rotate(" + this.value + "deg" +")";
 ```
 
-Don't forget that the sliders currently have a minimum value of 1 and a maximum value of 300. How will you need to change this for your rotation slider to make the hair able to rotate in a full circle?
+Don't forget that the sliders currently have a minimum value of 1 and a maximum value of 300. How will you need to change this for your rotation slider so that you can rotate the hair in a full circle?
 
 ```javascript
 Left: <input type="range" min="1" max="300" value="50" id="hairleft">
