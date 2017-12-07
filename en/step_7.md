@@ -6,7 +6,7 @@ Can you add another slider to allow people to change the height of the hair imag
 
 + Between the `<script>` tags, add a variable that refers to the `id` of the slider you just created.
 
-+ Add some more JavaScript code to say "When the height slider is changed, change the height of the hair image". You will need to change the code in the two places marked with `???` below. Look at the code you wrote earlier to help you.
++ Add some more JavaScript code to say "When the height slider is moved, change the height of the hair image". You will need to change the code in the two places marked with `???` below. Look at the code you wrote earlier to help you.
 
 ```javascript
 ???.oninput = function() {
