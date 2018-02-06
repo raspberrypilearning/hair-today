@@ -12,7 +12,7 @@ _By Tim Lucas [CC BY 3.0](http://creativecommons.org/licenses/by/3.0){:target="_
 
 + Open up [Pixlr](https://pixlr.com/editor/){:target="_blank"}, which is a free online image editor. If you have access to another image editing tool that you prefer, you can use that instead.
 
-+ Select **Open image from computer** from the menu, and select the image containing the hair style you wish to use.
++ Select **Open image from computer** or **Open image from URL**  from the menu, and select the image containing the hair style you wish to use, or copy in the url of the image you want to use..
 
 ![Open the image](images/open-image.png)
 
