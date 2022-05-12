@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Give people funny hairstyles by creating a web app with JavaScript
 theme: green
 duration: 2
-listed: false
+listed: true
 ingredient: false
 copyedit: true
 curriculum: 2, design-2, programming-2, phys-comp-0, manufacture-0, community-1
@@ -21,6 +21,7 @@ steps:
   completion: engaged
 - title: Find an image
 - title: Edit the hair
+  completion: engaged
 - title: Add the images
 - title: Add a slider
 - title: 'Challenge: change the height'
