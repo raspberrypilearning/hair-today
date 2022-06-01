@@ -18,13 +18,14 @@ last_tested: 2018-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Find an image
 - title: Edit the hair
-  completion: engaged
+  completion:
+  - engaged
 - title: Add the images
 - title: Add a slider
 - title: 'Challenge: change the height'
 - title: Change the position
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: rotate the hair'
