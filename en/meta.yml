@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Give people funny hairstyles by creating a web app with JavaScript
 theme: green
 duration: 2
-listed: true
+listed: false
 ingredient: false
 copyedit: true
 curriculum: 2, design-2, programming-2, phys-comp-0, manufacture-0, community-1
